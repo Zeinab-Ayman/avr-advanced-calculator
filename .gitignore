@@ -1,0 +1,14 @@
+# Build output folders
+Debug/
+Release/
+
+# Compiled files
+*.hex
+*.elf
+*.o
+*.d
+*.lss
+*.map
+
+# Eclipse internal settings (optional if you want clean repos)
+.settings/Debug/
