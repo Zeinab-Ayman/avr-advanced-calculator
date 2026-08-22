@@ -45,6 +45,7 @@ Here is a full demonstration of the calculator application simulation:
 <video src="assets/demo.mp4" controls="controls" style="max-width: 100%; height: auto;">
   Your browser does not support the video tag.
 </video>
+https://github.com/Zeinab-Ayman/avr-advanced-calculator/raw/main/assets/demo_video.mp4
 
 ---
 
